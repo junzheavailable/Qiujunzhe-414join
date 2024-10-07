@@ -8,4 +8,4 @@
  ![喜欢的图片](https://github.com/user-attachments/assets/b345bb16-50ac-494b-979e-6081d5a4806c)
 4.选答题--2.4.3 设计一个你想做的一个 APP 或网站
 **策划案有点长，我写到pdf中去了，会更方便阅读**
-[414招新面试选答题  邱俊哲_QQ浏览器转格式.pdf](https://github.com/user-attachments/files/17274218/414._QQ.pdf)
+
